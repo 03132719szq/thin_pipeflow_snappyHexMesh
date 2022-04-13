@@ -8,12 +8,12 @@
 Build  : _7bdb509494-20201222 OPENFOAM=2012
 Arch   : "LSB;label=32;scalar=64"
 Exec   : blockMesh
-Date   : Apr 12 2022
-Time   : 13:59:47
+Date   : Apr 13 2022
+Time   : 16:29:50
 Host   : DESKTOP-MP84EVR
-PID    : 1164
+PID    : 13590
 I/O    : uncollated
-Case   : /home/shi/run/snappy_pipe
+Case   : /home/shi/github_pratice/thin_pipeflow_snappyHexMesh/snappy_pipe
 nProcs : 1
 trapFpe: Floating point exception trapping enabled (FOAM_SIGFPE).
 fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 5, maxFileModificationPolls 20)

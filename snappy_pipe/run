@@ -2,5 +2,6 @@
 blockMesh > blockMesh.log
 snappyHexMesh -overwrite > snappyHexMesh.log
 topoSet > topoSet.log
+createPatch -overwrite > createPatch.log
 touch cylinder.foam
 
